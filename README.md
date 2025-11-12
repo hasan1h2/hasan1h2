@@ -24,7 +24,7 @@
 #### 🛍️ Full Project Flutter – Flutter + Firebase
 A fully **static Flutter app** featuring multiple screens, clean UI, and **GetX** for state management.  
 No backend integration; all content is static.
-🔗 [View on GitHub](https://github.com/hasan1h2/Ecommerce-App)
+🔗 [View on GitHub](https://github.com/hasan1h2/Full-Project-Flutter)
 
 
 #### 🌐 Full Stack Web Development Project  
