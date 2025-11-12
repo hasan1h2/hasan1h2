@@ -21,17 +21,15 @@
 
 ### 🧩 Featured Projects  
 
-#### 📝 ToDo App – Flutter + GetX  
-A simple and elegant task management app built with Flutter and GetX.  
-🔗 [View on GitHub](https://github.com/hasan1h2/Todo-App)
-
-#### 🛍️ E-Commerce App – Flutter + Firebase  
-A complete eCommerce app with authentication, product listing & Firebase integration.  
+#### 🛍️ Full Project Flutter – Flutter + Firebase
+A fully **static Flutter app** featuring multiple screens, clean UI, and **GetX** for state management.  
+No backend integration; all content is static.
 🔗 [View on GitHub](https://github.com/hasan1h2/Ecommerce-App)
+
 
 #### 🌐 Full Stack Web Development Project  
 Responsive website using HTML, CSS, and JavaScript.  
-🔗 [View on GitHub](https://github.com/hasan1h2/Full-Stack-Web-Development-project)
+🔗 [View on GitHub](https://github.com/hasan1h2/Full-Stack-_Web-Development-project)
 
 ---
 
