@@ -36,7 +36,8 @@ Responsive website using HTML, CSS, and JavaScript.
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasan1h2&show_icons=true&theme=tokyonight" alt="Ahosan's GitHub Stats" width="48%"/>
+  <img src="https://github.com/hasan1h2/hasan1h2/issues/1#issue-3661228105" alt="Ahosan's GitHub Stats" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=hasan1h2&show_icons=true&theme=tokyonight" alt="Ahosan's GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan1h2&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
 </p>
 
